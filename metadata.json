@@ -1,0 +1,6 @@
+{
+  "name": "Prima Sales Command",
+  "description": "Internal AI sales-intelligence command system for continuous emission monitoring and ambient air quality monitoring equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
